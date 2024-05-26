@@ -12,4 +12,6 @@ it also deletes Internet Explorer Cache.
 unless you're up to deleting VALORANT and other games please do not say Yes on the second question.
 
 PASSWORD : shqtz
+
+
 Enjoy.
